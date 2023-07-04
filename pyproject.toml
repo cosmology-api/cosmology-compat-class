@@ -24,7 +24,7 @@
   dependencies = [
     "cosmology.api >= 0.1.0",
     "cython",
-    "classy<3.0",
+    "classy<4.0",
     "typing_extensions>=3.7.4.2",
     "scipy>1.5",
   ]
